@@ -1,0 +1,14 @@
+C:\Users\Nimap\source\repos\Csharrpday3\Csharrpday3\bin\Debug\net8.0\Csharrpday3.exe
+C:\Users\Nimap\source\repos\Csharrpday3\Csharrpday3\bin\Debug\net8.0\Csharrpday3.deps.json
+C:\Users\Nimap\source\repos\Csharrpday3\Csharrpday3\bin\Debug\net8.0\Csharrpday3.runtimeconfig.json
+C:\Users\Nimap\source\repos\Csharrpday3\Csharrpday3\bin\Debug\net8.0\Csharrpday3.dll
+C:\Users\Nimap\source\repos\Csharrpday3\Csharrpday3\bin\Debug\net8.0\Csharrpday3.pdb
+C:\Users\Nimap\source\repos\Csharrpday3\Csharrpday3\obj\Debug\net8.0\Csharrpday3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\source\repos\Csharrpday3\Csharrpday3\obj\Debug\net8.0\Csharrpday3.AssemblyInfoInputs.cache
+C:\Users\Nimap\source\repos\Csharrpday3\Csharrpday3\obj\Debug\net8.0\Csharrpday3.AssemblyInfo.cs
+C:\Users\Nimap\source\repos\Csharrpday3\Csharrpday3\obj\Debug\net8.0\Csharrpday3.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Csharrpday3\Csharrpday3\obj\Debug\net8.0\Csharrpday3.dll
+C:\Users\Nimap\source\repos\Csharrpday3\Csharrpday3\obj\Debug\net8.0\refint\Csharrpday3.dll
+C:\Users\Nimap\source\repos\Csharrpday3\Csharrpday3\obj\Debug\net8.0\Csharrpday3.pdb
+C:\Users\Nimap\source\repos\Csharrpday3\Csharrpday3\obj\Debug\net8.0\Csharrpday3.genruntimeconfig.cache
+C:\Users\Nimap\source\repos\Csharrpday3\Csharrpday3\obj\Debug\net8.0\ref\Csharrpday3.dll
