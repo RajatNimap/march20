@@ -5,7 +5,19 @@ namespace Csharrpday3{
 
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello world");
+            /*
+              var guess = new Guesiingnumbe();
+              guess.guessnumber();
+            */
+            // sereis.sseries();
+            // Array1.arr();
+            //   Arraylogical.message();
+            // date.Date();
+            //  date.Time();
+            //string1.workingonStr();
+
+            // string1.summarize();
+            problemonstr.problem();
            
             Console.ReadKey();
         }

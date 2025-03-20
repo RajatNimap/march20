@@ -12,3 +12,4 @@ C:\Users\Nimap\source\repos\Csharrpday3\Csharrpday3\obj\Debug\net8.0\refint\Csha
 C:\Users\Nimap\source\repos\Csharrpday3\Csharrpday3\obj\Debug\net8.0\Csharrpday3.pdb
 C:\Users\Nimap\source\repos\Csharrpday3\Csharrpday3\obj\Debug\net8.0\Csharrpday3.genruntimeconfig.cache
 C:\Users\Nimap\source\repos\Csharrpday3\Csharrpday3\obj\Debug\net8.0\ref\Csharrpday3.dll
+C:\Users\Nimap\source\repos\Csharrpday3\Csharrpday3\obj\Debug\net8.0\Csharrpday3.sourcelink.json
